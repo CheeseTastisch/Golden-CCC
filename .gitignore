@@ -6,7 +6,7 @@
 .gradle
 
 # Ignore build directory
-/build/
+build/
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -78,3 +78,13 @@ nbdist/
 
 # BlueJ
 *.ctxt
+
+##################
+### Test Files ###
+##################
+
+# Test module
+/Test/
+
+# Training module
+/Training/
